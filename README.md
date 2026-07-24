@@ -1,4 +1,4 @@
-# MealAppCw
+# Meal Prepare Application
 
 An Android meal-prep app built with Jetpack Compose that lets users fetch meals from [TheMealDB](https://www.themealdb.com/api.php), save them to a local database, and search saved meals offline.
 
